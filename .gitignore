@@ -1,0 +1,13 @@
+node_modules/
+**/node_modules/
+.env
+.env.*
+!.env.example
+**/dist/
+**/build/
+*.log
+npm-debug.log*
+backend/private-uploads/
+.vscode/
+.DS_Store
+Thumbs.db
